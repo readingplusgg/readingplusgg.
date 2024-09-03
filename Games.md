@@ -7,3 +7,5 @@ Subway Surfers: https://ixlmathgg.github.io/cat
 Super Mario 64: https://ixlmathgg.github.io/dog
 
 TinyFishing: https://ixlmathgg.github.io/bear
+
+TapTapShots: https://ixlmathgg.github.io/snake
