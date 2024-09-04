@@ -12,6 +12,8 @@ TapTapShots: https://ixlmathgg.github.io/snake
 
 Drive Mad: https://ixlmathgg.github.io/shark
 
+Mario Kart DS: https://ixlmathgg.github.io/zebra
+
 Wordle Unlimited: https://ixlmathgg.github.io/turtle
 
 Fruit Ninja: https://ixlmathgg.github.io/doggy
