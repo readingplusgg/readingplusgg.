@@ -13,3 +13,5 @@ TapTapShots: https://ixlmathgg.github.io/snake
 Drive Mad: https://ixlmathgg.github.io/shark
 
 Wordle Unlimited: https://ixlmathgg.github.io/turtle
+
+Fruit Ninja: https://ixlmathgg.github.io/doggy
