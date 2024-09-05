@@ -4,3 +4,17 @@ Here is What You Need To Choose:
 GBA=Nintendo Game Boy Advance
 
 DS=Nintendo DS
+
+
+
+
+
+
+
+
+
+
+
+
+
+IF YOU GET A WHITE SCREEN THEN CLICK THE RESTART BUTTON ON THE BOTTOM LEFT
