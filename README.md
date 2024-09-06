@@ -5,6 +5,8 @@ GBA=Nintendo Game Boy Advance
 
 DS=Nintendo DS
 
+PS=Playstation
+
 
 
 
