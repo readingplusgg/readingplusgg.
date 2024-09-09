@@ -17,3 +17,5 @@ Emulator JS: https://ixlmathgg.github.io/zebra
 Wordle Unlimited: https://ixlmathgg.github.io/turtle
 
 Fruit Ninja: https://ixlmathgg.github.io/doggy
+
+Rooftop Snipers: https://ixlmathgg.github.io/fox
