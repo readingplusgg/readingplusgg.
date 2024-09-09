@@ -19,3 +19,5 @@ Wordle Unlimited: https://ixlmathgg.github.io/turtle
 Fruit Ninja: https://ixlmathgg.github.io/doggy
 
 Rooftop Snipers: https://ixlmathgg.github.io/fox
+
+Tunnel Rush: https://ixlmathgg.github.io/bat
