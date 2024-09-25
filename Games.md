@@ -1,21 +1,21 @@
 Welcome To ixlmathgg Best Unblocked Games Industry At Putnam City School District
 
-Stickmanhook: https://ixlmathgg.github.io/kitty
+Stickmanhook: https://mathpunch.github.io/kitty
 
-Super Mario 64: https://ixlmathgg.github.io/dog
+Super Mario 64: https://mathpunch.github.io/dog
 
-TinyFishing: https://ixlmathgg.github.io/bear
+TinyFishing: https://mathpunch.github.io/bear
 
-TapTapShots: https://ixlmathgg.github.io/snake
+TapTapShots: https://mathpunch.github.io/snake
 
-Drive Mad: https://ixlmathgg.github.io/shark
+Drive Mad: https://mathpunch.github.io/shark
 
-Emulator JS: https://ixlmathgg.github.io/zebra
+Emulator JS: https://mathpunch.github.io/zebra
 
-Wordle Unlimited: https://ixlmathgg.github.io/turtle
+Wordle Unlimited: https://mathpunch.github.io/turtle
 
-Fruit Ninja: https://ixlmathgg.github.io/doggy
+Fruit Ninja: https://mathpunch.github.io/doggy
 
-Rooftop Snipers: https://ixlmathgg.github.io/fox
+Rooftop Snipers: https://mathpunch.github.io/fox
 
-Tunnel Rush: https://ixlmathgg.github.io/bat
+Tunnel Rush: https://mathpunch.github.io/bat
