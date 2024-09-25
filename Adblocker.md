@@ -1,1 +1,1 @@
-https://www.icloud.com/shortcuts/c448e77af9e34d94a9c2c2f97ce02d39
+https://www.icloud.com/shortcuts/60f5af18cbfe435f886450e6a4c332e5
